@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Jussimple",
-    subtitle: "Admin Dashboard for Jussimple Trading",
+    subtitle: "Admin Dashboard",
     description:
       "I have created a admin dashboard for a trading company called Jussimple Trading. The dashboard is fully responsive due to security reason you are restrictesd to access the page",
     image: "./project2.png",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "jewelleriesandbeauty",
-    subtitle: "Ecommerce Website for Jewelleries and Beauty",
+    subtitle: "Ecommerce Website",
     description:
       "I have created a ecommerce website for a jewellery and beauty company called Jewelleries and Beauty, which also include payment gateway of paypal and its on progress. The website is fully responsive",
     image: "./project3.png",
