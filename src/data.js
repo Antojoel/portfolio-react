@@ -3,7 +3,7 @@ export const projects = [
     title: "Nalaiya Vidiyal NGO",
     subtitle: "Public Relations Website",
     description:
-      "I have created a website for a NGO called Nalaiya Vidiyal. The website is created using Php and hosted on Veeble. The website is fully responsive",
+      "I have created a website for a NGO called Nalaiya Vidiyal. The website is created using Php and hosted on Veeble. The website is fully responsive it gets a great user traction everyday.",
     image: "./project1.png",
     link: "http://nalaiyavidiyal.com/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "jewelleriesandbeauty",
     subtitle: "Ecommerce Website",
     description:
-      "I have created a ecommerce website for a jewellery and beauty company called Jewelleries and Beauty, which also include payment gateway of paypal and its on progress. The website is fully responsive",
+      "I have created a ecommerce website for a jewellery and beauty company called Jewelleries and Beauty, which also include payment gateway of paypal and its on progress.",
     image: "./project3.png",
     link: "http://jewelleriesandbeauty.com/",
   },
